@@ -10,7 +10,7 @@ Senior software Analyst
 <a href="https://www.github.com/mani970" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mani970?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>
 
-## My favorite tools and technologies ⚙️
+## Tech stacks ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
